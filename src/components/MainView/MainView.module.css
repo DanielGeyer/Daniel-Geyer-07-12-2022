@@ -1,0 +1,7 @@
+.mainScreen {
+    padding: 32px;
+    flex: 1;
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+}
